@@ -7,6 +7,7 @@
 - DAW Secundario: Ableton Live 10
 - Plugins de Análisis: iZotope RX 5, Waves Horizon, UAD Bound Pro Tools 10, Valhalla Delay, Valhalla Super Massive, Valhalla Space modulator, Valhalla Plate, Valhalla Vintage Verb
 - Hardware Clave: [Digi 002, Motu 828X, Adam A7V monitors, Elektron Analog Rytm pre]
+- intrumentos musicales: Korg Minilogue, Moog Minitaur, Behringer Wasp, Virus TI2, Nord Lead 2x, Waldorf Streichfett, Dreadbox Nyx, Behringer TD3 MO, Mutable Instruments Shruthi, Roland Super JD 990
 
 ## 2. Plataforma de IA y Orientación
 
