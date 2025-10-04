@@ -5,7 +5,7 @@
 - Sistema Operativo: macOS Sonoma (14.x)
 - DAW Primario: Pro Tools 10 
 - DAW Secundario: Ableton Live 10
-- Plugins de Análisis: iZotope Insight, Sonarworks SoundID Reference
+- Plugins de Análisis: iZotope RX 5, Waves Horizon, UAD Bound Pro Tools 10, Valhalla Delay, Valhalla Super Massive, Valhalla Space modulator, Valhalla Plate, Valhalla Vintage Verb
 - Hardware Clave: [Digi 002, Motu 828X, Adam A7V monitors, Elektron Analog Rytm pre]
 
 ## 2. Plataforma de IA y Orientación
